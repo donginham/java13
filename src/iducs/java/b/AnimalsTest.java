@@ -6,7 +6,6 @@ public class AnimalsTest {
 		animal.eat();
 		animal.move();
 		animal.sound();
-		int ee;
 	}
 	
 	public static void main(String[] args) {
